@@ -7,8 +7,8 @@ Next steps:
   npm run dev
   git commit -m "initial commit"
 
-
-
+Setting up Progressive Web App (PWA) with Sworkbox:
+- npm i @serwist/next && npm i -D serwist
 
 
 # Create T3 App
