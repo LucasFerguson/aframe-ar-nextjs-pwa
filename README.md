@@ -1,3 +1,16 @@
+
+# Project Notes by Lucas
+Next steps:
+  cd aframe-ar-nextjs-pwa
+  npm run db:push
+	Warning: You did not specify an output path for your `generator` in schema.prisma. This behavior is deprecated and will no longer be supported in Prisma 7.0.0. T✔ Generated Prisma Client (v6.6.0) to .\node_modules\@prisma\client in 50ms
+  npm run dev
+  git commit -m "initial commit"
+
+
+
+
+
 # Create T3 App
 
 This is a [T3 Stack](https://create.t3.gg/) project bootstrapped with `create-t3-app`.
@@ -27,3 +40,5 @@ You can check out the [create-t3-app GitHub repository](https://github.com/t3-os
 ## How do I deploy this?
 
 Follow our deployment guides for [Vercel](https://create.t3.gg/en/deployment/vercel), [Netlify](https://create.t3.gg/en/deployment/netlify) and [Docker](https://create.t3.gg/en/deployment/docker) for more information.
+
+
